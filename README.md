@@ -1,4 +1,4 @@
-# 'cdr migrate server' command to automate setting up Informix Enterprise Replication between two servers and migrate data.
+# New 'cdr migrate server' command to automate setting up Informix Enterprise Replication between two servers and migrate data.
 
 Demo video: 
 
